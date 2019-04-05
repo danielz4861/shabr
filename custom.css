@@ -2,8 +2,26 @@ html,
 body{
     width:100%;
     height:100%;
+    background-color:#efadaa;
+    
 }
 body{
     background-color:#3e9ac8;
     
+    
+}
+#content1{
+    display:table;
+    width:100%;
+    height:200%;
+}
+.heading-color {
+    background-color: #f27c76;
+}
+@media only screen and (min-width: 768px){
+    
+}
+
+p{
+    font-size:25px;
 }
