@@ -70,7 +70,7 @@ p{
 
 /* Style the back side */
 .flip-card-back {
-  background-color: dodgerblue;
+  background-color: #c4aae2;
   color: white;
   transform: rotateY(180deg);
 }
