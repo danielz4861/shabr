@@ -1,3 +1,4 @@
+body
 {
     background-color:#efadaa;
     
@@ -63,7 +64,7 @@ p{
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #bbb;
+  background-color: #efadaa;
   color: black;
 }
 
