@@ -71,3 +71,6 @@ p{
   color: white;
   transform: rotateY(180deg);
 }
+.contact{
+  text-align: center;
+}
